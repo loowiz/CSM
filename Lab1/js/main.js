@@ -1,6 +1,6 @@
 function change_text1(){
     document.getElementById("texto").innerHTML = "<p>Olá! Eu sou o Luiz!</p>" + 
-    "<p align=\"center\"><img src=\"img/atibaia.jpg\" width=\"40\%\"> <img src=\"img/avatar.png\" width=\"30\%\"></p>";
+    "<p align=\"center\"><img src=\"img/atibaia.jpg\" width=\"30\%\"> <img src=\"img/avatar.png\" width=\"20\%\"></p>";
 }
 
 function change_text2(){
